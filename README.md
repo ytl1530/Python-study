@@ -1,3 +1,5 @@
 # Python-study
 
-# 用于学习python 
+## 一、基础学习
+
+一些python的基础
